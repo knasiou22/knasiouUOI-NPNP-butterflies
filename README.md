@@ -28,12 +28,12 @@ Welcome to the repository for our study on the multifaceted mountainous butterfl
 
 Sections: 
 
-#### Sampling efficiency and indices
+#### 1. Sampling efficiency and indices
 
-#### Comparative analyses
+#### 2. Comparative analyses
 
-#### Regression models
+#### 3. Regression models
 
-#### many-GLM
+#### 4. many-GLM
 
-#### trait-GLM
+#### 5. trait-GLM
